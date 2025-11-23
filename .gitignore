@@ -1,0 +1,22 @@
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+.DS_Store
+
+# Baileys auth / session files
+data/auth/
+data/*.json
+data/*.db
+
+# generated images / saved media (optional)
+data/*.png
+data/*.mp4
+data/saved/
+.env
+.env
+.env
